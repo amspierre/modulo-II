@@ -1,0 +1,15 @@
+h1, h2{
+    color: violet;
+}
+
+.box p{
+    color: red;
+}
+
+ul{
+    color: blue;
+}
+
+ul .done{
+    color: green;
+}
